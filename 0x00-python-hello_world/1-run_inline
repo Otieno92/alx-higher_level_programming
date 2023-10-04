@@ -1,0 +1,3 @@
+#!/bin/bash
+# This script runs Python code from an environment variable
+python3 -c "$PYCODE"
