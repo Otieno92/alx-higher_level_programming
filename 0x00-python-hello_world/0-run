@@ -1,2 +1,2 @@
-#!/bin/bash
-# This script runs a Python script whose file name is stored in the environment variable $PYFILE
+#!/usr/bin/python3
+print("Best School")
